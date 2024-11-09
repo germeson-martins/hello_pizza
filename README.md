@@ -14,6 +14,6 @@
 href="https://germeson-martins.github.io/hello_pizza" target="_blank">Hello Pizza
 </a>
 
-<img src="img/demo.png" alt="senhor-lei-demo">
+<img src="img/demo.png" alt="Demo site">
 
 
